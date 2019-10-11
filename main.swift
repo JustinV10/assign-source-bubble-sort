@@ -1,8 +1,8 @@
 // Allen ISD Computer Science Assignment
 // Bubble Sort
 // John Williams
-// Computer Science III, Period 5
-// 2018.03.06
+// Computer Science III, Period 7
+// 2019.03.06
 
 /********************************************************************************
 As always, READ ALL INSTRUCTIONS!!!
